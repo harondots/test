@@ -1,0 +1,8 @@
+{
+  "name": "askorablin/test",
+  "autoload": {
+    "psr-4": {
+      "Test\\": "src/"
+    }
+  }
+}
